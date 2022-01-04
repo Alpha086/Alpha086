@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alpha086
+- 👋 Hi, I’m @Nayeem
 - 👀 I’m interested in developing
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on online
